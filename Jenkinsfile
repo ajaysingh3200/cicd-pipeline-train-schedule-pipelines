@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ajaysingh3200 
-ajaysingh3200
-/
-cicd-pipeline-train-schedule-cd
-forked from linuxacademy/cicd-pipeline-train-schedule-cd
-0
-02.5k
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-cicd-pipeline-train-schedule-cd/Jenkinsfile
-@ajaysingh3200
-ajaysingh3200 Update Jenkinsfile
-Latest commit 1a2dec5 26 days ago
- History
- 2 contributors
-@whboyd@ajaysingh3200
-74 lines (74 sloc)  3.25 KB
-  
 pipeline {
     agent any
     stages {
